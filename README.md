@@ -1,6 +1,15 @@
 # Cpp-Hello-World-DRONING
 GitHub "HelloWorld" repo for INGENIA SYSTEMS ENGINEERING
 
+
+## Contents
+```sh 
+.
+├── README.md
+├── a.out
+└── main.cpp
+```
+
 ## Procedure to follow
 
 ### 1. Clone the repo
