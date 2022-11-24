@@ -11,6 +11,11 @@ git clone https://github.com/curroramos/Cpp-Hello-World-DRONING
 ### 2. Open main.cpp file and modify it
 Add your printf("...") code
 
+Compile the new program:
+```sh 
+g++ main.cpp
+```
+
 ### 3. Commit and push
 Add modified files to prepare the commit
 
